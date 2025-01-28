@@ -2,7 +2,15 @@
 
 👋 **Cześć**
 
-jestem Ania, pasjonatka jakości i rozowju, z kilkuletnim doświadczeniem w testowaniu/analizie i zarządzaniu zespołami testerskimi. 
+jestem Ania, pasjonuje mnie **tworzenie jakościowych systemów/aplikacji**. 
+Posiadam doświadczenie w analizie i testowaniu aplikacji (webowych/desktopowych) dla bankowości elektronicznej oraz systemów medycznych.
+Miałam przyjemność pełnić rolę liderski zespołu testerów w Banku Pekao, jak i pełnić funkcję kierownika działu testów w firmie Gabos. 
+
+**Ciekawość** - to moje drugie imię. Nie boję się nowych wyzwań. 
+Dominują u mnie talenty - Aktywator, Osiąganie i Wizjoner - dzięki czemu **dobrze odnajduję sie w zwinnych zespłach, w zmieniających się środowiskach**. 
+**Elastyczność, szybkość w przystosowaniu się, zaangażowannie** - to słowa, które na stałe wpisane są w moją charaterystykę. 
+
+Dzięki doświadczeniu jakie zdobyłam poza IT - **potrafię wczuć się w rolę użytkownika końcowego** ( klienta biznesowego ). 
 
 
 ## Moje kompetencje 🧠
