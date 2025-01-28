@@ -13,20 +13,6 @@ Dominują u mnie talenty - Aktywator, Osiąganie i Wizjoner - dzięki czemu **do
 Dzięki doświadczeniu jakie zdobyłam poza IT - **potrafię wczuć się w rolę użytkownika końcowego** ( klienta biznesowego ). 
 
 
-## Moje kompetencje 🧠
-- **analiza wymagań biznesowych i systemowych**, co pozwala na weryfikację wizji produktu i wskazaniu ewentualnych ryzyk czy błędów
-- **aktualizacja dokumentacji projektowej** oraz **dbanie o rozbudowę repozytorium projektowego**, dzięki czemu dokumentacja jest kompleksowa, czytelna i zawiera aktualne informacje 
-- **tworzenie diagramów BPMN**, zadania w formie User stories wspierając pracę Product Ownera 
-- **przeprowadzanie szczegółowych testów** ( w tym testy regresji/retesty) aplikacji webowych, mobilnych i desktopowych, korzystając z dostępnych narzędzi jak Grafana, Devtools, SQL, SoapUI, co pozwala mi wykryć błędy/niespójności już na środowisku testowym
-- **tworzenie szczegółowych scenariuszy testowych** przy użyciu narzędzia Jira - Zephyr, tworzenie danych testowych a także dopilnowanie aby środowiska testowe działały bez zarzutów
-- **prowadzenie Product Show**, prezentując postępy prac zespołu dla interesariuszy
-- **delegowanie zadań i ustalanie priorytetów**, aby wywiązać się z terminowości zleconych testów
-- **wdrożenie i usprawnienie nowego podejścia do wytwarzania oprogramowania**, co poskutkowało stworzeniem nowego przepływu i porządku w Jira, a także zwiększenia świadomości zespołów wytwórczych, w jakim miejscu obecnie się znajdujemy i nad czym pracujemy 
-- **ujednolicenie sposób raportowania i zgłaszania błędów**, co umożliwiło lepszą weryfikację i widoczność  miejsc, w których aplikacje wymagają poprawy 
-- **weryfikacja raportów z testów każdego testera**, co przyczyniło się do zwiększenia zaangażowania i uważności podczas testowania
-- **wprowadzenie comiesięcznych spotkań organizacyjnych, spotkań statusowych** przed wydaniem wersji oraz spotkań 1-2-1, aby zwiększyć komunikację w zespole, poczucie odpowiedzialności, sprawczości i aktualizację wiedzy
-- **ścisła współpraca z programistami, analitykami, PO, PM oraz interesariuszami**, co pomaga  w zrozumieniu wizji produktu i możliwości wpływania na jego końcowy efekt
-
 ## Projekty 💻
 Miałam przyjemność pracować (testy/analiza/prezentacja/zarządzanie) przy projektach takich jak:
 - **stworzenie całkiem nowego modułu do przelewów** w placówkach Banku ( Bank Pekao S.A.- Pekao360 )
@@ -43,7 +29,20 @@ Miałam przyjemność pracować (testy/analiza/prezentacja/zarządzanie) przy pr
 - **liderka i koordynatorka 7-osobowego zespołu testerskiego** (Bank Pekao S.A.), który tworzył bankowość elektroniczną Pekao24,Pekao360 ( ustalenie harmonogramów obsługi zgłoszeń Service Desk, zapewnienie wsparcia w testach podczas nieobecności, organizacja spotkań testerskich/szkoleń wewnętrznych, wsparcie w kontaktach z przełożonymi)
 - **kierownik 15-osobowego działu testów** (Gabos Software Sp. z o.o.), - zarządzanie, delegowanie, nadzorowanie zespołu testerskiego  w tym weryfikacja raportów z testów, ustalenie priorytetów, pilnowanie terminowości wykonanych testów, współpraca z PO/Analitykami,PM, uczestnictwo w daily, spotkania z Zarządem,prowadzenie rekrutacji, rozbudowa zespołu i wdrożenie  nowych pracowników)
 
-  
+## Moje kompetencje 🧠
+- **analiza wymagań biznesowych i systemowych**, co pozwala na weryfikację wizji produktu i wskazaniu ewentualnych ryzyk czy błędów
+- **aktualizacja dokumentacji projektowej** oraz **dbanie o rozbudowę repozytorium projektowego**, dzięki czemu dokumentacja jest kompleksowa, czytelna i zawiera aktualne informacje 
+- **tworzenie diagramów BPMN**, zadania w formie User stories wspierając pracę Product Ownera 
+- **przeprowadzanie szczegółowych testów** ( w tym testy regresji/retesty) aplikacji webowych, mobilnych i desktopowych, korzystając z dostępnych narzędzi jak Grafana, Devtools, SQL, SoapUI, co pozwala mi wykryć błędy/niespójności już na środowisku testowym
+- **tworzenie szczegółowych scenariuszy testowych** przy użyciu narzędzia Jira - Zephyr, tworzenie danych testowych a także dopilnowanie aby środowiska testowe działały bez zarzutów
+- **prowadzenie Product Show**, prezentując postępy prac zespołu dla interesariuszy
+- **delegowanie zadań i ustalanie priorytetów**, aby wywiązać się z terminowości zleconych testów
+- **wdrożenie i usprawnienie nowego podejścia do wytwarzania oprogramowania**, co poskutkowało stworzeniem nowego przepływu i porządku w Jira, a także zwiększenia świadomości zespołów wytwórczych, w jakim miejscu obecnie się znajdujemy i nad czym pracujemy 
+- **ujednolicenie sposób raportowania i zgłaszania błędów**, co umożliwiło lepszą weryfikację i widoczność  miejsc, w których aplikacje wymagają poprawy 
+- **weryfikacja raportów z testów każdego testera**, co przyczyniło się do zwiększenia zaangażowania i uważności podczas testowania
+- **wprowadzenie comiesięcznych spotkań organizacyjnych, spotkań statusowych** przed wydaniem wersji oraz spotkań 1-2-1, aby zwiększyć komunikację w zespole, poczucie odpowiedzialności, sprawczości i aktualizację wiedzy
+- **ścisła współpraca z programistami, analitykami, PO, PM oraz interesariuszami**, co pomaga  w zrozumieniu wizji produktu i możliwości wpływania na jego końcowy efekt
+
   ## Skille miękkie 🍀
 - Zdolność analitycznego i krytycznego myślenia
 - Umiejętność pracy w zespole i indywidualnie
